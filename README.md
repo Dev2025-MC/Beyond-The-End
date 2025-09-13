@@ -12,7 +12,7 @@
 -new blocks,ores,tools,and armors</p>
 <h1>Who Created Beyond The End?</h1>
 <p>NetherPixel</p>
-<h1>How many Version are in Beyond The End</h1>
+<h1>How many Version are in Beyond The End?</h1>
 <p>there are only 1 version</p>
 <ul>
 <li>1.0</li>
@@ -24,7 +24,7 @@
 <img src="_MarketingScreenshot_3.jpg">
 <img src="_MarketingScreenshot_4.jpg">
 <img src="_MarketingScreenshot_5.jpg">
-<h1>Where is the download</h1>
+<h1>Where is the download?</h1>
 <p>here is the download</p>
 <a href="https://bedrock-hub.blogspot.com/2025/08/beyond-end.html?m=1" download>download</a>
 <p>Connect in whatsapp 896-8579-977 :3</p>
